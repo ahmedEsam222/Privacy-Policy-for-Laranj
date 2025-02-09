@@ -1,0 +1,75 @@
+Privacy Policy - سياسة الخصوصية
+Last Updated: November 22, 2024 - آخر تحديث: 22 نوفمبر 2024
+
+1. Data Controller - مسؤول البيانات
+Laranj, Cairo, Egypt - لارنج، القاهرة، مصر
+
+2. Types of Data Collected - أنواع البيانات المجموعة
+2.1 Directly Collected Data - البيانات المجموعة مباشرة:
+- Name (الاسم)
+- Email (البريد الإلكتروني)
+- Phone Number (رقم الهاتف)
+- Delivery Address (عنوان التسليم)
+
+2.2 Automatically Collected Data - البيانات المجموعة تلقائيًا:
+- Device ID (معرّف الجهاز)
+- IP Address (عنوان IP)
+- Usage Patterns (أنماط الاستخدام)
+
+3. Legal Basis for Processing - الأساس القانوني للمعالجة
+We process data based on - نقوم بمعالجة البيانات بناء على:
+- Your explicit consent (موافقتك الصريحة)
+- Contractual necessity (الضرورة التعاقدية)
+
+4. Data Usage - استخدام البيانات
+Purpose - الغرض:
+- Order processing - معالجة الطلبات
+- Account management - إدارة الحسابات
+- Service improvement - تطوير الخدمة
+
+5. Third-Party Sharing - مشاركة البيانات مع أطراف ثالثة
+5.1 Essential Services - خدمات أساسية:
+- Payment Processors (معالجات الدفع): Apple Pay, Meeza
+
+5.2 Analytics - التحليلات:
+- Firebase Analytics
+
+6. App Tracking Transparency - شفافية تتبع التطبيقات
+We do not use your data for cross-app/site tracking without explicit consent.
+لا نستخدم بياناتك لتتبعك عبر التطبيقات أو المواقع الأخرى دون موافقتك الصريحة.
+
+7. Data Retention - فترة الاحتفاظ بالبيانات
+Data Type - نوع البيانات | Retention Period - فترة الاحتفاظ
+Account Data - بيانات الحساب | 3 years after deletion - 3 سنوات بعد الحذف
+Transaction Records - سجلات المعاملات | 7 years - 7 سنوات
+
+8. User Rights - حقوق المستخدم
+You can - يمكنك:
+- Access data - الوصول إلى البيانات
+- Rectify errors - تصحيح الأخطاء
+- Delete account - حذف الحساب
+- Manage consent (via Settings > Privacy) - إدارة الموافقة (من الإعدادات > الخصوصية)
+
+Request via: support@laranjapp.com - تقديم الطلبات عبر: support@laranjapp.com
+
+9. Security Measures - إجراءات الأمان
+- AES-256 encryption - التشفير
+- Regular penetration testing - اختبارات الاختراق الدورية
+- ISO 27001 certification - شهادة الأيزو 27001
+
+10. Children's Privacy - خصوصية الأطفال
+We do not collect data from users under 13 years old.
+لا نجمع بيانات من المستخدمين تحت سن ١٣ عامًا.
+
+11. International Transfers - النقل الدولي للبيانات
+We use AWS Middle East (Bahrain) Region - نستخدم منطقة AWS الشرق الأوسط (البحرين)
+
+12. Updates - التحديثات
+Changes notified through - سيتم الإخطار بالتحديثات عبر:
+- App Store listing - قائمة آب ستور
+- In-app banner (30 days prior) - بانر داخل التطبيق (قبل ٣٠ يومًا)
+
+Contact Us - اتصل بنا:
+Email: support@laranjapp.com
+Phone: +20 123 456 7890
+Address: Cairo, Egypt - القاهرة، مصر
